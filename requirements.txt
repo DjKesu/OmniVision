@@ -1,0 +1,39 @@
+# Core ML libraries (Mac optimized)
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.40.0
+accelerate>=0.21.0
+
+# Computer vision and image processing
+Pillow>=9.5.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Quantization and optimization
+torchao>=0.1.0
+
+# SAM 2 dependencies (will be installed separately)
+matplotlib>=3.7.0
+
+# CLI and utilities
+click>=8.1.0
+tqdm>=4.65.0
+pydantic>=2.0.0
+
+# Development and testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Demo and visualization
+gradio>=4.0.0
+plotly>=5.15.0
+
+# Optional: for caching and serialization
+joblib>=1.3.0
+
+# Optional: for dataset loading
+datasets>=2.14.0
+
+# CLIP for text-to-vision bridge
+openai-clip>=1.0.1

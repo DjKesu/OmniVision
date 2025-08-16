@@ -1,0 +1,170 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyTorch
+*.pth
+*.pt
+*.ckpt
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Rope
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Model checkpoints and weights
+checkpoints/
+weights/
+models/
+*.safetensors
+
+# Data directories
+data/
+datasets/
+downloads/
+
+# Output directories
+outputs/
+results/
+experiments/
+
+# Cache directories
+.cache/
+__pycache__/
+.pytest_cache/
+
+# Hugging Face cache
+.cache/huggingface/
+
+# Conda
+*.conda
+*.tar.bz2
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.gif
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.svg
+
+# Configuration files with secrets
+config.yaml
+.env.local
+.env.production
+secrets.yaml
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Test results
+test_results/
+coverage.xml
+.coverage
+
+# Documentation builds
+docs/_build/
+docs/build/
+
+# Node.js (if using any JS tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# MacOS specific
+.AppleDouble
+.LSOverride
+Icon?
+
+# Windows specific
+*.exe
+*.msi
+*.msm
+*.msp
+
+# Linux specific
+*~
+
+docs/
