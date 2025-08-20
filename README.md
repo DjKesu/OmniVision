@@ -1,5 +1,7 @@
 # OmniVision
 
+[!! Still experimenting]
+
 **Unified Vision: Open-vocabulary segmentation meets representation learning and language grounding.**
 
 *One framework for seeing, segmenting, and understanding everything.*
